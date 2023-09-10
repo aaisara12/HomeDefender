@@ -15,5 +15,10 @@
 			"Name": "Text3D",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Mac",
+		"Windows",
+		"Linux"
 	]
 }
